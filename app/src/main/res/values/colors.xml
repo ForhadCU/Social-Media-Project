@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BFA5</color>
+    <color name="colorPrimaryDark">#00897B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="launcher_bg">#2962FF</color>
+    <color name="bluePrimary">#4500F1</color>
+    <color name="blueDark">#260092</color>
+    <color name="txt_common">#ffff</color>
+    <color name="clickable_txt">#3D5AFE</color>
+
+</resources>

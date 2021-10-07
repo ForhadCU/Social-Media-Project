@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">All in One Project</string>
+    <string name="launch_txt">Please wait..</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="name_error">Name doesn\'t exist</string>
+    <string name="email_error">Email doesn\'t exist</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="password_error">Password doesn\'t exist</string>
+    <string name="error_invalid_password">Required minimum 6 characters</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="title_error">Title doesn\'t exist</string>
+    <string name="desc_error">Description doesn\'t exist</string>
+    <string name="desc_sample">This is Description, having a 5dp margin in Bottom, 3dp margin in Start.</string>
+</resources>

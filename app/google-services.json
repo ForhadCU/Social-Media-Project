@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "370774939577",
+    "firebase_url": "https://my-project-notifly.firebaseio.com",
+    "project_id": "my-project-notifly",
+    "storage_bucket": "my-project-notifly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370774939577:android:c3fcd05ad4c29672210868",
+        "android_client_info": {
+          "package_name": "com.example.allinoneproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370774939577-bn3pdhbtmavuvb3hajfo7lldog6581rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allinoneproject",
+            "certificate_hash": "c9c6afdfedac6d114f106407d17cbdd43f6d77ab"
+          }
+        },
+        {
+          "client_id": "370774939577-789rf90lia85mb5eq1trm2vu0nd7ivi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vD-VkAQCwOdZCyf0sTV4J8gVuXeef3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370774939577-789rf90lia85mb5eq1trm2vu0nd7ivi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
